@@ -31,7 +31,8 @@
     "should": "4.3.x"
   },
   "scripts": {
-    "test": "gulp test"
+    "test": "gulp test",
+    "start": "node index.js"
   },
   
   "licenses": [
